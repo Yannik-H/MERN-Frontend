@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-router-dom": "5.3.0",
@@ -29,5 +31,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
