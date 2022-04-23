@@ -6,9 +6,9 @@ const Users = () => {
   const USERS = [
     {
       id: 'u1',
-      name: 'Max Schwarz',
+      name: 'Test',
       image:
-        'https://images.pexels.com/photos/839011/pexels-photo-839011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
+        'https://upload.wikimedia.org/wikipedia/zh/thumb/e/ed/Bart_Simpson.svg/1280px-Bart_Simpson.svg.png',
       places: 3
     }
   ];
