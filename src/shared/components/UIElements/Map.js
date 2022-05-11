@@ -25,8 +25,6 @@ import './Map.css';
 //   );
 // };
 
-// export default Map;
-
 const Map = props => {
   const mapRef = useRef();
   
@@ -56,5 +54,5 @@ const Map = props => {
     ></div>
   );
 };
- 
+
 export default Map;
